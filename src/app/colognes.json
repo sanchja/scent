@@ -1,0 +1,48 @@
+{
+    "colognes": [
+    {   //-----------    CREED GREEN IRISH TWEED   ------------------>
+        "name": 'Creed Green Irish tweed',
+        "image": <img src="img/creed-green-irish-tweed.jpg">
+        "imageLogo": <img src="img/creed_logo.png">,
+        "description": "A classic, as the old adage tells us, never goes out of style. Like a perfectly tailored suit, Green Irish Tweed has been and continues to be worn by confident men at the peak of their field. The fragrance elegantly combines woody freshness and pure masculinity, equally suited to a stroll through the Irish countryside and a strut down the red carpet. One of Creed’s best-selling scents, to wear it is to be unforgettable.",
+        "classification": 'Woody / Fresh',
+        "notes": 'Top note: Lemon, verbena from India, peppermint, Middle note: Violet Leaves, Base note: Florentine iris, sandalwood, ambergris"
+    },
+    {
+       //-----------    CREED AVENTUS   ------------------>
+        "name": "Creed Aventus",
+        "image": <img src="img/creed-aventus.jpg">,
+        "imageLogo": <img src="img/creed_logo.png">,
+        "description": "The exceptional Aventus was inspired by the dramatic life of a historic emperor, celebrating strength, power and success. Introduced in 2010 and crafted by the deft hand of Sixth Generation Master Perfumer Olivier Creed in collaboration with his son Erwin, this scent has grown to become the best-selling fragrance in the history of the brand. Olivier created its iconic name derived from a (\"from\") ventus (\"the wind\"), illustrating the Aventus man as destined to live a driven life, ever galloping with the wind at his back toward success. Aventus is a sophisticated blend for individuals who savor a life well-lived.",
+        "classification": "Fruity - Rich",
+        "notes": "Top note: Bergamot, blackcurrant leaves, apple, pineapple, Middle note: Pinkberries, birch, patchouli, jasmine, Base note: Musk, oakmoss, ambergris, vanilla"  
+    },
+        
+    {   //-----------    CALVIN KLEIN ETERNITY   ------------------>
+        "name": "Calvin Klein Eternity",
+        "image": <img src="img/eternity.jpeg" width="360">,
+        "imageLogo": <img src="img/Calvin-Klein-logo.png" width="151">,
+        "description": "Refined. Distinctive. Timeless. This refreshing woody aromatic scent distinctly masculine with a cool, crisp edge and a warm, woodsy trail.",
+        "classification": "Fruity - Rich",
+        "notes": "Top Notes: mandarin, lavender, green botanics, Middle Notes: basil, geranium, sage, Base Notes: sandalwood, rosewood, amber"  
+    },
+        
+    {   //-----------    ACQUA DI GIÒ EAU DE TOILETTE   ------------------>
+        "name": "Acqua Di GiÒ Eau De Toilette",
+        "image": <img src="img/aqua_digio.png" width="360">,
+        "imageLogo": <img src="img/giorgio_armani_logo.svg" width="181">,
+        "description": "Incomplete description ********* This aquatic, hyacinth fragrance opens with a splash of fresh, calabrian bergamot, neroli and green tangerine. Light, aquatic nuances mix with jasmine fragrance, crisp rock rose, rosemary, fruity pers",
+        "classification": "Fruity - Rich",
+        "notes": "Add Notes *********"  
+    },
+        
+    {   //-----------    TOBACCO VANILLE   ------------------>
+        "name": "Tobacco Vanille",
+        "image": <img src="img/tobacco_vanille.jpeg" width="360">,
+        "imageLogo": <img src="img/giorgio_armani_logo.svg" width="181">,
+        "description": "Tom Ford's affection for London inspired this scent, reminiscent of an English Gentalmen's Club, redolent with spice. He reinvents a classic fragrance genre by adding creamy Tonka Bean, Vanilla, Cocoa, dry fruit accords and sweet wood sap for a modern, opulent, and almost heady impression that's all man.",
+        "classification": "Fruity - Rich",
+        "notes": "Add Notes *********" 
+    }
+    ]
+}

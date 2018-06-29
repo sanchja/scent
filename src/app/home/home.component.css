@@ -1,0 +1,14 @@
+.tagline {
+    float:left;
+    position:absolute;
+    left:50px;
+    top:250px;
+    opacity:.5;
+}
+.tagline2 {
+    float:left;
+    position:absolute;
+    left:150px;
+    top:290px;
+    opacity:.7;
+}

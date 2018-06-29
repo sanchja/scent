@@ -1,0 +1,16 @@
+
+/*************Global colors used ********************* 
+
+Crimson #932020
+Olive Green #556B2F
+Grey #707070
+
+******************************************************/
+
+.container { 
+    margin-top:10px; 
+    color:#707070; 
+    font-family: 'Quicksand', sans-serif;
+}
+.navbar-light{ background-color:#556B2F; }
+.page-header { margin-bottom:30px; margin-top:20px}

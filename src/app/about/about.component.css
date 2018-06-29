@@ -1,0 +1,8 @@
+.description {
+    font-size:.8em;
+}
+.img-responsive{
+    max-height:700px;
+    width:80%; height:auto;
+}
+img { border:1px solid #556B2F;}
